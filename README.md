@@ -81,7 +81,7 @@ To ensure your AI assistant doesn't bypass its own defenses out of "obedience", 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Thanks: SlowMist Security Team ([@SlowMist_Team](https://x.com/SlowMist_Team)), Edmund.X ([@leixing0309](https://x.com/leixing0309))
+Thanks: SlowMist Security Team ([@SlowMist_Team](https://x.com/SlowMist_Team)), Edmund.X ([@leixing0309](https://x.com/leixing0309)), zhixianio ([@zhixianio](https://x.com/zhixianio)), Feng Liu ([@fishkiller](https://x.com/fishkiller))
 
 
 ## ⚠️ Disclaimer

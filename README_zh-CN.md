@@ -81,7 +81,7 @@
 ## 🤝 贡献
 欢迎提交 Contributions, Issues 和 Feature Requests！
 
-感谢：慢雾安全团队（[@SlowMist_Team](https://x.com/SlowMist_Team)）、Edmund.X（[@leixing0309](https://x.com/leixing0309)）
+感谢：慢雾安全团队（[@SlowMist_Team](https://x.com/SlowMist_Team)）、Edmund.X（[@leixing0309](https://x.com/leixing0309)）、zhixianio（[@zhixianio](https://x.com/zhixianio)）、Feng Liu（[@fishkiller](https://x.com/fishkiller)）
 
 
 ## ⚠️ 免责声明与常见问题（Disclaimer & FAQ）
